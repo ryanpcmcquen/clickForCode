@@ -1,0 +1,1 @@
+Click the icon to insert a `<pre>` tag in the HTML `<body>`.
