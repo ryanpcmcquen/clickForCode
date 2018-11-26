@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "clickForCode",
     "description": "Click to add a <pre> tag inside the HTML <body>.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "permissions": [
         "activeTab"
     ],
