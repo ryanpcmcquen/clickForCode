@@ -1,1 +1,1 @@
-Click the icon to insert a `<pre>` tag in the HTML `<body>`.
+Click the icon to insert a `<pre>` tag in the HTML `<body>`. This extension also attempts to detect text only pages and inserts a `<pre>` tag automatically on those.
